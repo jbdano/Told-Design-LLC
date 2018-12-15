@@ -113,21 +113,25 @@ a {
 h1 {
   font-size: calc(46px + (80 - 46) * ((100vw - 300px) / (1600 - 300)));
   margin: 0;
+  font-weight: bold;
 }
 
 h3 {
   font-size: calc(24px + (30 - 24) * ((100vw - 300px) / (1600 - 300)));
   margin: 0;
+  font-weight: bold;
 }
 
 h4 {
   font-size: calc(21px + (24 - 21) * ((100vw - 300px) / (1600 - 300)));
   margin: 0;
+  font-weight: bold;
 }
 
 h5 {
   font-size: calc(18px + (24 - 18) * ((100vw - 300px) / (1600 - 300)));
   margin: 0;
+  font-weight: bold;
 }
 
 p,
